@@ -90,5 +90,5 @@ Este proyecto se entrega como ejemplo para automatización de limpieza de datos.
 ## 🤝 Autor
 
 ### Oscar Alegre
-💼 Especialista en Automatización con Python.
+💼 Especialista en Automatización con Python.  
 📧 Contacto: (oscaralregre19@gmail.com)
