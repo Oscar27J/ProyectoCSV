@@ -4,8 +4,8 @@
 
 Este script automatiza la limpieza de archivos CSV: elimina filas vacías, normaliza nombres y correos, restaura encabezados originales y exporta un nuevo archivo limpio.
 
-🔹 Entrada: un archivo CSV con datos a limpiar (colócalo en la carpeta input/).
-🔹 Salida: un archivo CSV limpio en la carpeta output/.
+🔹 Entrada:  un archivo CSV con datos a limpiar (colócalo en la carpeta input/).  
+🔹 Salida:  un archivo CSV limpio en la carpeta output/.  
 
 
 ---
