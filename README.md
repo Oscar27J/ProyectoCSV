@@ -34,7 +34,7 @@ Proyecto/
 
 ---
 
-🔧 Instalación de dependencias
+## 🔧 Instalación de dependencias
 
 Se recomienda usar un entorno virtual para aislar tus dependencias:
 
@@ -71,7 +71,7 @@ El script procesará el primer archivo CSV encontrado en input/ y generará el a
 
 ---
 
-##🚨 Notas importantes
+## 🚨 Notas importantes
 
 ✅ El script limpia los encabezados solo internamente para trabajar mejor, pero restaura los encabezados originales en el archivo final.
 ✅ Se eliminan filas completamente vacías y se limpian columnas como correo y nombre si existen.
