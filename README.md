@@ -43,13 +43,13 @@ Se recomienda usar un entorno virtual para aislar tus dependencias:
 
 ### Activar entorno virtual
 
-### En Windows:
+#### En Windows:
 venv\Scripts\activate
 
-### En macOS/Linux:
+#### En macOS/Linux:
 source venv/bin/activate
 
-### Instalar dependencias
+#### Instalar dependencias
 *pip install -r requirements.txt*
 
 > Contenido de requirements.txt:
@@ -73,9 +73,9 @@ El script procesará el primer archivo CSV encontrado en input/ y generará el a
 
 ## 🚨 Notas importantes
 
-✅ El script limpia los encabezados solo internamente para trabajar mejor, pero restaura los encabezados originales en el archivo final.
-✅ Se eliminan filas completamente vacías y se limpian columnas como correo y nombre si existen.
-✅ Convierte a enteros las columnas numéricas sin decimales.
+✅ El script limpia los encabezados solo internamente para trabajar mejor, pero restaura los encabezados originales en el archivo final.  
+✅ Se eliminan filas completamente vacías y se limpian columnas como correo y nombre si existen.  
+✅ Convierte a enteros las columnas numéricas sin decimales.  
 
 
 ---
@@ -84,10 +84,6 @@ El script procesará el primer archivo CSV encontrado en input/ y generará el a
 
 Este proyecto se entrega como ejemplo para automatización de limpieza de datos. Puedes adaptarlo libremente para tus necesidades.
 
-
----
-
-¿Te gustaría que te prepare los comandos para subir este README actualizado a tu repositorio?
 
 ---
 
