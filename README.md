@@ -1,6 +1,6 @@
 
 
-##📌 Descripción
+## 📌 Descripción
 
 Este script automatiza la limpieza de archivos CSV: elimina filas vacías, normaliza nombres y correos, restaura encabezados originales y exporta un nuevo archivo limpio.
 
@@ -10,7 +10,7 @@ Este script automatiza la limpieza de archivos CSV: elimina filas vacías, norma
 
 ---
 
-##📂 Estructura del proyecto
+## 📂 Estructura del proyecto
 ```plaintext
 Proyecto/
 ├── input/           # Coloca aquí tu archivo CSV original
@@ -22,7 +22,7 @@ Proyecto/
 
 ---
 
-##✅ Requisitos
+## ✅ Requisitos
 
 1️⃣ Python 3.10 o superior
 🔗 Descargar Python
@@ -38,18 +38,18 @@ Proyecto/
 
 Se recomienda usar un entorno virtual para aislar tus dependencias:
 
-# Crear entorno virtual (solo la primera vez)
+### Crear entorno virtual (solo la primera vez)
 *python -m venv venv*
 
-# Activar entorno virtual
+### Activar entorno virtual
 
-# En Windows:
+### En Windows:
 venv\Scripts\activate
 
-# En macOS/Linux:
+### En macOS/Linux:
 source venv/bin/activate
 
-# Instalar dependencias
+### Instalar dependencias
 *pip install -r requirements.txt*
 
 > Contenido de requirements.txt:
@@ -60,7 +60,7 @@ numpy
 
 ---
 
-##▶️ Ejecución del script
+## ▶️ Ejecución del script
 
 Una vez activado el entorno virtual y colocados tus archivos CSV en la carpeta input/, ejecuta:
 
@@ -80,7 +80,7 @@ El script procesará el primer archivo CSV encontrado en input/ y generará el a
 
 ---
 
-##📄 Licencia
+## 📄 Licencia
 
 Este proyecto se entrega como ejemplo para automatización de limpieza de datos. Puedes adaptarlo libremente para tus necesidades.
 
